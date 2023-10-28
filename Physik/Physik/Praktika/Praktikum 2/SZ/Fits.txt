@@ -1,0 +1,30 @@
+Kennlinie 1
+
+General model:
+     f(x) = -a*(exp(b*x)-1)+c
+Coefficients (with 95% confidence bounds):
+       a =      0.8038  (0.5794, 1.028)
+       b =       8.946  (8.481, 9.412)
+       c =       91.93  (88.95, 94.91)
+
+Goodness of fit:
+  SSE: 4.098
+  R-square: 0.9995
+  Adjusted R-square: 0.9995
+  RMSE: 0.3201
+
+Kennlinie 2
+
+General model:
+     f(x) = -a*(exp(b*x)-1)+c-x/15*1000
+Coefficients (with 95% confidence bounds):
+       a =     0.02902  (-0.005761, 0.0638)
+       b =       15.16  (12.76, 17.57)
+       c =       70.92  (67.84, 73.99)
+
+Goodness of fit:
+  SSE: 58.21
+  R-square: 0.9879
+  Adjusted R-square: 0.9872
+  RMSE: 1.206
+

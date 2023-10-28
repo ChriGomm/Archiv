@@ -1,0 +1,4 @@
+Eingeschlossene Fläche 56.288 cm^2 entspricht 1.367 J.
+
+und falls ihr es braucht Fläche zwischen oberer Isotherme und x-Achse
+enspricht 20.492 J 

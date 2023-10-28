@@ -1,0 +1,40 @@
+Vorbereitung SZ
+
+-Wie unterscheiden sich Metalle, Isolatoren und Halbleiter?
+	Sie unterscheiden sich im Abstand der Valenz- und Leitbänder. Bei Metallen kommt es sogar zu
+	überschneidungen, Halbleiter haben einen relativ geringen Abstand und Isolatoren am besten einen
+	möglichst großen.
+
+-Was versteht man bei Halbleitern unter Elektronen, Löchern und Dotierung?
+	Elektronen sind die negativen Ladungsträger, Löcher dir positiven und man kann einen Halbleiter n-
+	oder p-dotieren und das bedeutet, dass Elektronen zuvor entfernt oder hinzugefügt wurden. Beim pn
+	Übergang difundieren die Elektronen und es bleiben negativ-ionisiert Akzeptoren im n-Gebiet und 
+	positiv ionisierte Donatoren im p-Gebiet zurück.
+	-> Elektr. Feld, das gegen den Elektronen-Strom wirkt.
+
+-Wie ist eine Halbleiterdiode aufgebaut, wie lautet die Diodengleichung und wie sieht ihre 
+I-U-Kennlinie aus?
+	Aufgebaut aus n und p dotierten
+	Id(Ud) = I0 [exp(eUd/nkbT)-1]
+	Kennlinie wie bei idealer Diode, also praktisch kein Strom (Schleichstrom) bis Schwellspannung
+	erreicht wird
+
+-Was versteht man unter dem innerem photoelektrischen Effekt und unter dem photovoltaischen Effekt?
+	-Photonen mit Energie >= der Bandlücke im Halbleitermaterial werden absorbiert und lassen 
+	gebundene Elektronen aus besetztem Niveau im Valenzband ins Leitungsband übergehen. Positiv 
+	geladenes Loch im valenzband ist ebenfalls beweglich und bildet Elektron-Loch-Paar.
+	-Wird Photon in Raumladungszone der Solarzelle absorbiert trennt es das Elektron-Loch-Paar,
+	wodurch Elektronen in n-Bereich und Löcher in p-Bereich gehen.
+
+-Wie sieht eine I-U-Kennlinie einer Solarzelle aus und wie bestimmt man daraus die wichtigsten 
+Zellparameter Kurzschlussstrom, Leerlaufspannung, Maximum Power Point, Füllfaktor, Wirkungsgrad,
+Parallelwiderstand und Serienwiderstand?
+	-Kurzschlussstrom (U=0V) -> Strom
+	-Leerlaufspannung kein Verbraucher (I=0) -> Spannung
+	-Maximum Power Point: P_out = Um Im maximal
+	-Füllfaktor: Verhältnis aus größtmöglichen Rechtecksfläche unter Kennlinie und einrahmenden
+		Rechtecksfläche gegeben durch Kurzschlussstrom und Leerlaufspannung
+	-Wirkungsgrad: Verhältnis aus P_MPP und P_in
+	-Paralllelwiderstand: Steigung im Punkt (0, I_sc) entspricht diesem etwa
+	-Serienwiderstand: Steigung im Punkt (U0c, 0)
+
