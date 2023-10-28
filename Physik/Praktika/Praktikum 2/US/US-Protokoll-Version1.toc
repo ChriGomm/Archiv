@@ -1,0 +1,23 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Einleitung}{3}{section.1}%
+\contentsline {section}{\numberline {2}Theoretische Grundlagen}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Die elastischen Koeffizienten}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Schallwellen}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Debeye-Sears-Effekt}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Beugung am Gitter}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Beugungsgitter}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Snellius´sches Brechungsgesetz}{6}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Piezo-Effekt}{6}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Magnetostriktion}{6}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Schwingung eines Stabes}{6}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Elastische Verformung $\epsilon $}{7}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Geschwindigkeiten von Wellen}{7}{subsection.2.11}%
+\contentsline {section}{\numberline {3}Versuche}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Versuch 1}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Versuch 2}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Versuch 3}{8}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Auswertung}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Auswertung 1}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Auswertung 2}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Auswertung 3}{13}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Fazit}{14}{section.5}%
